@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Dharun Kishore.S <br><br>🎓 ECE Undergraduate | Software Development Enthusiast  <br><br>💡 Currently mastering:<br>- Python (Advanced concepts, problem-solving)<br>- Data Structures & Algorithms (for product-based companies)<br>- Core CS fundamentals (OOP, DBMS, OS)<br>- Backend Development & REST APIs  <br><br>🚀 Goal:  🚀 Goal: To become a strong problem solver and build impactful software solutions<br><br>🛠️ Building projects, improving coding efficiency, and exploring AI-driven solutions  <br><br>🎬 Fun fact: I love video editing and creative tech!
+Hi 👋 I'm Dharun Kishore.S <br><br>🎓 ECE Undergraduate | Software Development Enthusiast  <br><br>💡 Currently mastering:<br>- Python (Advanced concepts, problem-solving)<br>- Data Structures & Algorithms (for product-based companies)<br>- Core CS fundamentals (OOP, DBMS, OS)<br>- Backend Development & REST APIs  <br><br>🚀 Goal:  🚀 : To become a strong problem solver and build impactful software solutions<br><br>🛠️ Building projects, improving coding efficiency, and exploring AI-driven solutions  <br><br>🎬 Fun fact: I love video editing and creative tech!
 
 
 ## 🌐 Socials:
